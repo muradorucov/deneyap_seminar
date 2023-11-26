@@ -1,0 +1,20 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+textarea{
+    width: 400px;
+    height: 200px;
+}
+
+button{
+    display: block;
+    width: 100%;
+    background-color: violet;
+    color: white;
+    padding: 15px 0;
+    border: 1px solid violet    ;
+    font-size: 21px;
+}
